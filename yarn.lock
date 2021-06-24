@@ -1091,7 +1091,7 @@
   resolved "https://registry.npmjs.org/@sanity/asset-utils/-/asset-utils-1.1.5.tgz#dada8644757462c89be2b1e74e1bdb5d70e0d3d5"
   integrity sha512-cghhQZTOFaa0HiBQnf3UF6Nm1DnuS3cS0RZeSUFsC9KmIDwE/DmU7LDfXiZ7xI7dm/RuNa8WSRGfFJBE+KX02g==
 
-"@sanity/base@2.12.2", "@sanity/base@^2.12.2":
+"@sanity/base@2.12.2":
   version "2.12.2"
   resolved "https://registry.npmjs.org/@sanity/base/-/base-2.12.2.tgz#5af826c79d5b4e2df239f581c9a45a2517764c02"
   integrity sha512-1+y02Tt7/jasDU/J/NC7wm5afd33JTJ4jqUT8waOlDgXtdNxtzXx32hLS34W2+X0vEatLnT5h/bs/DTvAdxNpA==
@@ -1184,14 +1184,14 @@
   resolved "https://registry.npmjs.org/@sanity/color/-/color-2.1.2.tgz#a5fd77d18d02e715809e2e99fd329f70611ee3ca"
   integrity sha512-6WE14xdSWMPfWHGs9kzZyK3eCUVc37U94R4hpqTwMbAYyxvpq6KEEqWh3lsrqrxUk97MQCoWyzCpfGjMmOfpCw==
 
-"@sanity/components@^2.2.6":
+"@sanity/components@2.2.6":
   version "2.2.6"
-  resolved "https://registry.npmjs.org/@sanity/components/-/components-2.2.6.tgz#d1d6d1017a53ebb413ef026eabd5dd0b4a1bcdad"
+  resolved "https://registry.yarnpkg.com/@sanity/components/-/components-2.2.6.tgz#d1d6d1017a53ebb413ef026eabd5dd0b4a1bcdad"
   integrity sha512-KK+6eJgrgHEd9Hq+LbRamdAI64cNXYoVn/f/Dn3ES1GA55AvQyKQUay4T/zZ1yEITKSyIZgETQjpAl/Hg+72eQ==
 
-"@sanity/core@^2.12.2":
+"@sanity/core@2.12.2":
   version "2.12.2"
-  resolved "https://registry.npmjs.org/@sanity/core/-/core-2.12.2.tgz#a802d3bb39c8ee6756ccd82cd691d0f3db73c00a"
+  resolved "https://registry.yarnpkg.com/@sanity/core/-/core-2.12.2.tgz#a802d3bb39c8ee6756ccd82cd691d0f3db73c00a"
   integrity sha512-9mUWIs6ZsfcZOJbwejcHpqeKSGTw5AuPaDcLSzTh2laBUtbsISWVzEYcJfPzIknboRBEPAgY2bRDrO71cspOag==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.10.4"
@@ -1264,9 +1264,9 @@
     postcss-value-parser "^3.3.0"
     source-list-map "^2.0.0"
 
-"@sanity/dashboard@^2.10.5":
+"@sanity/dashboard@2.10.5":
   version "2.10.5"
-  resolved "https://registry.npmjs.org/@sanity/dashboard/-/dashboard-2.10.5.tgz#1cf377b0afd46b25da166c3e68911d7aa76a8aea"
+  resolved "https://registry.yarnpkg.com/@sanity/dashboard/-/dashboard-2.10.5.tgz#1cf377b0afd46b25da166c3e68911d7aa76a8aea"
   integrity sha512-8CCFja4zSoBi+vkYscoUW0uzT1bUHQ/j8EDwB3myehMa5GiJqtQlBt/77W8dD2ttdR8YiCVs/ZHvA6esNBcoRA==
   dependencies:
     "@sanity/image-url" "^0.140.19"
@@ -1281,9 +1281,9 @@
     "@sanity/generate-help-url" "2.2.6"
     lodash "^4.17.15"
 
-"@sanity/default-layout@^2.12.2":
+"@sanity/default-layout@2.12.2":
   version "2.12.2"
-  resolved "https://registry.npmjs.org/@sanity/default-layout/-/default-layout-2.12.2.tgz#9a3115e363ff87d52d57bddd4115963adefaf5ce"
+  resolved "https://registry.yarnpkg.com/@sanity/default-layout/-/default-layout-2.12.2.tgz#9a3115e363ff87d52d57bddd4115963adefaf5ce"
   integrity sha512-xwcuaDuArVyiYMy9CBxjEA9bmT9K+FrvjFGD8v5urT7V9tazuSLfq0SDylh+zcmOrFkutVagKHXegHgk8mgFdQ==
   dependencies:
     "@reach/auto-id" "^0.13.2"
@@ -1301,18 +1301,18 @@
     rxjs "^6.5.3"
     styled-components "^5.2.1"
 
-"@sanity/default-login@^2.11.1":
+"@sanity/default-login@2.11.1":
   version "2.11.1"
-  resolved "https://registry.npmjs.org/@sanity/default-login/-/default-login-2.11.1.tgz#e3d4db645ad248fa755aede637d432c92a8f52d0"
+  resolved "https://registry.yarnpkg.com/@sanity/default-login/-/default-login-2.11.1.tgz#e3d4db645ad248fa755aede637d432c92a8f52d0"
   integrity sha512-EXy3xeg/mqxpGuHKlAZoK98cCNh6HwcnowLqTD4fRvkq36fAEf8cf/STQLmttM60zAXdSg1mz+dDbHzodDaDiw==
   dependencies:
     "@sanity/generate-help-url" "2.2.6"
     prop-types "^15.6.0"
     rxjs "^6.5.3"
 
-"@sanity/desk-tool@^2.12.2":
+"@sanity/desk-tool@2.12.2":
   version "2.12.2"
-  resolved "https://registry.npmjs.org/@sanity/desk-tool/-/desk-tool-2.12.2.tgz#5b5a3a6c49ecc3321008b3271c3d555417165d74"
+  resolved "https://registry.yarnpkg.com/@sanity/desk-tool/-/desk-tool-2.12.2.tgz#5b5a3a6c49ecc3321008b3271c3d555417165d74"
   integrity sha512-R3IngNSq3KvDIF4wo9eSvqpEQ9Bq9PfzHQhVBVk9PIaAM/FZC/Ec3taryc7rkTDNTcQq0izevc7Tqp0JKhy1Rw==
   dependencies:
     "@popperjs/core" "^2.5.4"
@@ -1725,9 +1725,9 @@
     es6-error "^4.0.2"
     type-of-is "^3.5.1"
 
-"@sanity/vision@^2.11.2":
+"@sanity/vision@2.11.2":
   version "2.11.2"
-  resolved "https://registry.npmjs.org/@sanity/vision/-/vision-2.11.2.tgz#41ae196e3c4bd4b52d2244c14d669a4a2a57cd5f"
+  resolved "https://registry.yarnpkg.com/@sanity/vision/-/vision-2.11.2.tgz#41ae196e3c4bd4b52d2244c14d669a4a2a57cd5f"
   integrity sha512-2xeRI5HxeEhq5yYJ49PnnjzQ+QDpOQjzWjUS5Un33yF8SwHKfJeFXofA4UzB3G3sTINGR2bJ+EG/qradTpBDFg==
   dependencies:
     "@sanity/icons" "^1.1.2"
