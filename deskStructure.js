@@ -48,4 +48,11 @@ export default () =>
                 ),
             ])
         ),
+      S.listItem()
+        .title('Testimonials')
+        .child(
+          S.documentList()
+            .title('Testimonials')
+            .filter('_type == "testimonials"')
+        ),
     ]);
