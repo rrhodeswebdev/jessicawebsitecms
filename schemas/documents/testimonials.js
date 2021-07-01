@@ -12,7 +12,7 @@ export default {
       type: 'string',
     },
     {
-      name: 'Testimonial',
+      name: 'testimonial',
       title: 'Testimonial',
       type: 'text',
     },
