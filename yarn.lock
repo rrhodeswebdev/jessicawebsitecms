@@ -3540,10 +3540,10 @@ date-now@1.0.1:
   resolved "https://registry.npmjs.org/date-now/-/date-now-1.0.1.tgz"
   integrity sha1-u30IZDjevkGCpIX7PfP7+5nWFTw=
 
-dayjs@1.10.6:
-  version "1.10.6"
-  resolved "https://registry.npmjs.org/dayjs/-/dayjs-1.10.6.tgz"
-  integrity sha512-AztC/IOW4L1Q41A86phW5Thhcrco3xuAA+YX/BLpLWWjRcTj5TOt/QImBLmCKlrF7u7k47arTnOyL6GnbG8Hvw==
+dayjs@1.10.7:
+  version "1.10.7"
+  resolved "https://registry.npmjs.org/dayjs/-/dayjs-1.10.7.tgz"
+  integrity sha512-P6twpd70BcPK34K26uJ1KT3wlhpuOAPoMwJzpsIWUxHZ7wpmbdZL/hQqBDfz7hGurYSa5PhzdhDHtt319hL3ig==
 
 debounce@1.0.0:
   version "1.0.0"
