@@ -14,20 +14,19 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "2.21.10",
+    "@sanity/base": "^2.22.0",
     "@sanity/components": "2.15.2-fix-sparkline.9",
-    "@sanity/core": "2.21.11",
-    "@sanity/dashboard": "2.21.10",
-    "@sanity/default-layout": "2.21.10",
-    "@sanity/default-login": "2.21.10",
-    "@sanity/desk-tool": "2.21.10",
-    "@sanity/vision": "2.21.10",
+    "@sanity/core": "^2.22.0",
+    "@sanity/dashboard": "^2.22.0",
+    "@sanity/default-layout": "^2.22.0",
+    "@sanity/default-login": "^2.22.0",
+    "@sanity/desk-tool": "^2.22.2",
+    "@sanity/vision": "^2.22.0",
     "dayjs": "1.10.7",
     "prop-types": "15.7.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-icons": "4.3.1",
-    "sanity-plugin-dashboard-widget-netlify": "1.2.1",
     "styled-components": "5.3.3"
   }
 }
