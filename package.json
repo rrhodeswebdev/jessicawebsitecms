@@ -14,7 +14,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/base": "2.25.0",
+    "@sanity/base": "2.29.5",
     "@sanity/components": "2.15.2-fix-sparkline.9",
     "@sanity/core": "2.25.0",
     "@sanity/dashboard": "2.25.0",
